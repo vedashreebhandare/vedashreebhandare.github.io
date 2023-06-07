@@ -339,12 +339,12 @@ ul#nav li.current a { color: #F06000; }
 }
 
 .apex {
-  	width: 95px;
+  	width: 95%;
   	-moz-animation: photoshop 2s ease;
   	-webkit-animation: photoshop 2s ease;
 }
 .visualforce {
-  	width: 82px;
+  	width: 82%;
   	-moz-animation: illustrator 2s ease;
   	-webkit-animation: illustrator 2s ease;
 }
@@ -353,18 +353,18 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: wordpress 2s ease;
   	-webkit-animation: wordpress 2s ease;
 }
-.WebDevelopment {
-  	width:20%;
+.lightningAura {
+  	width:75%;
   	-moz-animation: css 2s ease;
   	-webkit-animation: css 2s ease;
 }
-.dbManagment {
-  	width: 60%;
+.SalesforceConfiguration {
+  	width: 90%;
   	-moz-animation: html5 2s ease;
   	-webkit-animation: html5 2s ease;
 }
-.cloudComputing {
-  	width: 85%;
+.WebServices {
+  	width: 80%;
   	-moz-animation: jquery 2s ease;
   	-webkit-animation: jquery 2s ease;
  }
